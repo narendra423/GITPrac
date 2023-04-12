@@ -5,6 +5,6 @@ public class First{
 	private String name="branch22";
 	public static void main(String args[]){
 		System.out.println("sghdsg");
-		System.out.println("working with stash in branch2 2nd ");
+		System.out.println("working with stash in branch2");
 	}
 }
